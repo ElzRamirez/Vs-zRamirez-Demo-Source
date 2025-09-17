@@ -1,0 +1,5 @@
+Pantalla
+
+Value 1:
+'hola' to activate epic mode
+'adios' to deactivate it

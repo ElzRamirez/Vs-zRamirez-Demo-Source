@@ -1,0 +1,856 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"HideUI",
+						"0",
+						""
+					],
+					[
+						"Move Camera When Singing",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				2022.47191011236,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeIn",
+						"0.590625"
+					]
+				]
+			],
+			[
+				2696.62921348315,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5393.25842696629,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeOut",
+						"4.05"
+					]
+				]
+			],
+			[
+				10786.5168539326,
+				[
+					[
+						"HideUI",
+						"1",
+						""
+					],
+					[
+						"Camera_Tween_Zoom",
+						"0.95",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10870.7865168539,
+				[
+					[
+						"PantallaYesHud",
+						"hola",
+						""
+					]
+				]
+			],
+			[
+				21573.0337078652,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32359.5505617978,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41797.7528089888,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"1.05",
+						""
+					],
+					[
+						"Bad Battle Countdown",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				42134.8314606742,
+				[
+					[
+						"Bad Battle Countdown",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				42471.9101123596,
+				[
+					[
+						"Bad Battle Countdown",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				42808.9887640449,
+				[
+					[
+						"Bad Battle Countdown",
+						"go",
+						""
+					]
+				]
+			],
+			[
+				43146.0674157303,
+				[
+					[
+						"Camera Follow Pos",
+						"1045",
+						"850"
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"PantallaYesHud",
+						"adios",
+						""
+					],
+					[
+						"Camera Twist",
+						"0.1",
+						"0.6"
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43230.3370786517,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				53932.5842696629,
+				[
+					[
+						"PantallaYesHud",
+						"hola",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Camera Twist",
+						"",
+						""
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54016.8539325843,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				63370.7865168539,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"1.05",
+						""
+					],
+					[
+						"Bad Battle Countdown",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				63707.8651685393,
+				[
+					[
+						"Bad Battle Countdown",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64044.9438202247,
+				[
+					[
+						"Bad Battle Countdown",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				64382.0224719101,
+				[
+					[
+						"Bad Battle Countdown",
+						"go",
+						""
+					]
+				]
+			],
+			[
+				64719.1011235955,
+				[
+					[
+						"PantallaYesHud",
+						"adios",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1045",
+						"850"
+					],
+					[
+						"Camera Twist",
+						"0.1",
+						"0.6"
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64803.3707865168,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				75505.6179775281,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"PantallaYesHud",
+						"hola",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Camera Twist",
+						"",
+						""
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75589.8876404495,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				86292.1348314608,
+				[
+					[
+						"HideUI",
+						"0",
+						""
+					],
+					[
+						"Camera_Tween_Zoom",
+						"0.83",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87640.4494382024,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeIn",
+						"8.57, cubicOut"
+					]
+				]
+			],
+			[
+				97212.1406683206,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeOut",
+						"2, cubicIn"
+					]
+				]
+			],
+			[
+				99497.8549540348,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"HideUI",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99582.1246169562,
+				[
+					[
+						"PantallaYesHud",
+						"hola",
+						""
+					],
+					[
+						"Camera_Tween_Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				110284.371807967,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				119722.574055159,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"1.05",
+						""
+					],
+					[
+						"Bad Battle Countdown",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				120059.652706844,
+				[
+					[
+						"Bad Battle Countdown",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				120396.731358529,
+				[
+					[
+						"Bad Battle Countdown",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120733.810010215,
+				[
+					[
+						"Bad Battle Countdown",
+						"go",
+						""
+					]
+				]
+			],
+			[
+				121070.8886619,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"PantallaYesHud",
+						"adios",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1045",
+						"850"
+					],
+					[
+						"Camera Twist",
+						"0.1",
+						"0.6"
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121155.158324821,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				131857.405515833,
+				[
+					[
+						"PantallaYesHud",
+						"hola",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Camera Twist",
+						"",
+						""
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131941.675178754,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				141295.607763024,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"1.05",
+						""
+					],
+					[
+						"Bad Battle Countdown",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				141632.686414709,
+				[
+					[
+						"Bad Battle Countdown",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				141969.765066395,
+				[
+					[
+						"Bad Battle Countdown",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				142306.84371808,
+				[
+					[
+						"Bad Battle Countdown",
+						"go",
+						""
+					]
+				]
+			],
+			[
+				142643.922369765,
+				[
+					[
+						"PantallaYesHud",
+						"adios",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1045",
+						"850"
+					],
+					[
+						"Camera Twist",
+						"0.1",
+						"0.6"
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142728.192032687,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				153428.332482125,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Camera Twist",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153430.439223698,
+				[
+					[
+						"PantallaYesHud",
+						"hola",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153514.708886619,
+				[
+					[
+						"Camera_Tween_Zoom",
+						"0.95",
+						""
+					]
+				]
+			],
+			[
+				164216.95607763,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					],
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165565.270684372,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166913.585291113,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168261.899897855,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169610.214504597,
+				[
+					[
+						"Camera Follow Pos",
+						"1045",
+						"860"
+					],
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				170958.529111338,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172306.84371808,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				173655.158324821,
+				[
+					[
+						"Invert Scroll Direction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175003.472931563,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Camera_Tween_Zoom",
+						"0.83",
+						""
+					]
+				]
+			],
+			[
+				175424.82124617,
+				[
+					[
+						"HideUI",
+						"0",
+						""
+					],
+					[
+						"PantallaYesHud",
+						"adios",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"1045",
+						"850"
+					]
+				]
+			],
+			[
+				176351.787538304,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeIn",
+						"8.57, cubicOut"
+					]
+				]
+			],
+			[
+				185923.478768423,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeOut",
+						"2.29, cubicIn"
+					]
+				]
+			],
+			[
+				188209.193054137,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					],
+					[
+						"Hey!",
+						"",
+						"30"
+					]
+				]
+			],
+			[
+				189352.050196994,
+				[
+					[
+						"Overlay Alpha Fade",
+						"fadeIn",
+						"2.29, cubicIn"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,6 @@
+Interleaves the camGame zoom to a specific value
+at a specific duration at a specific ease
+
+Value 1: targetZoom, duration (example: 0.69, 0.1) 
+
+Value 2: ease (example: quadOut)

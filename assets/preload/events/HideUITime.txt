@@ -1,0 +1,5 @@
+Value 1:
+0 to hide the UI
+1 to show the UI
+
+Value 2: time
